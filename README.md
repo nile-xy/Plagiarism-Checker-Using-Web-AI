@@ -20,7 +20,8 @@ After initializing a url will appear copy it and paste it on yoyr browser.
 
 ![image](https://github.com/nile-xy/Plagiarism-Checker-Using-Web-AI/assets/99071836/a52ca200-8e61-48cf-9f03-f065267b2107)
 
-![image](https://github.com/nile-xy/Plagiarism-Checker-Using-Web-AI/assets/99071836/71b51874-a804-4d50-8ce3-2ca85835eb96
+![image](https://github.com/nile-xy/Plagiarism-Checker-Using-Web-AI/assets/99071836/71b51874-a804-4d50-8ce3-2ca85835eb96)
+
 ![image](https://github.com/nile-xy/Plagiarism-Checker-Using-Web-AI/assets/99071836/810600d9-8a18-43ce-83c7-cc4ed1db97f7)
 
 
