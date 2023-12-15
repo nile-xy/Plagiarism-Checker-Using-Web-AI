@@ -24,6 +24,25 @@ After initializing a url will appear copy it and paste it on yoyr browser.
 
 ![image](https://github.com/nile-xy/Plagiarism-Checker-Using-Web-AI/assets/99071836/810600d9-8a18-43ce-83c7-cc4ed1db97f7)
 
+ERROR
+If the system encounters an error the terminal will show the error on Visual Studio Code. Error indicates red and real time updates are being shown at the same time.
+
+API
+An API, or Application Programming Interface, is a set of rules and tools that allows different software applications to communicate with each other. It defines the methods and data formats applications can use to request and exchange information, facilitating seamless integration between diverse systems.
+
+IN CASE OF BUG
+In time if a bug appears always refer to the terminal. It will show all system prpcesses and will suggest what steps to dom
+
+DEPENDENCIES 
+Dependencies arw very crucial part of the system as it is the lifeline of the project. Without dependencies the system will not work.
+
+PROGRAMMING LANGUAGE
+The system is built using Python as the backend language and is using HTML,CSS for our Frontend Appearances. JavaScript is also present.
+
+IDE USED
+Pycharm or VS Code
+
+
 
 
 
