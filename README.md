@@ -42,6 +42,27 @@ The system is built using Python as the backend language and is using HTML,CSS f
 IDE USED
 Pycharm or VS Code
 
+How to Install NLTK in Visual Studio Code?
+You can install NLTK in VS Code using the following steps-
+
+Open Visual Studio Code.
+
+Click on the Extensions icon in the left sidebar.
+
+Search for "Python" and install the "Python" extension.
+
+Open a new file and create a Python script.
+
+Import the NLTK library:
+
+import nltk
+
+Use the nltk.download() function to download the NLTK data:
+
+nltk.download('all')
+
+This will download all the NLTK data, which is about 1.5 GB.
+
 
 
 
