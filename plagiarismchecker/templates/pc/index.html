@@ -42,12 +42,15 @@
         </li>
       </ul>
     </div>
+    
   </nav>
+  
 
   <div class="container content-1">
     <div class="col-md-6 offset-3 text-content">
 
       <p>Choose a file or enter text for web search!</p>
+      
       <div class="tab-content-1">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
           <li class="nav-item">
@@ -86,13 +89,7 @@
 
     <div class="container-fluid result-div">
       <div class="row">
-        <div class="col-md-6 result-1">
-          <h3>Results</h3>
-          <ul class="output-list-1">
-            {% for links in link %}            
-              <li>{{ links }}</li>
-            {% endfor %}
-      </div>
+        
 
       <div class="col-md-6 result-2" style="text-align: center; align-items: center;">
         <p class="output-per-tot">{{ percent }}%</p>
@@ -101,6 +98,10 @@
       </div>
     </div>
   </div>
+  <div style="text-align: center;">
+    <iframe src="https://amaplagiarismchecker.blogspot.com/" name="myiFrame" scrolling="no" frameborder="0"
+        height="600px" width="800px" allowfullscreen style="max-width: 100%; max-height: 100%; border: 1px solid #ffffff;"></iframe>
+</div>
 
   <script>
     function makeVisible() {
